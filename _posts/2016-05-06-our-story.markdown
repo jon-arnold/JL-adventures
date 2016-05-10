@@ -11,4 +11,5 @@ Coming soon.
 
 Follow along with our story on Instagram with [#TheArnoldStory hashtag](https://www.instagram.com/explore/tags/thearnoldstory/).
 
-<iframe src="http://widget.websta.me/in/tag:TheArnoldStory/?r=1&w=3&h=3&b=1&p=5&sb=off" allowtransparency="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden;width:795px; height: 795px" ></iframe>
+<script src="http://snapwidget.com/js/snapwidget.js"></script>
+<iframe src="http://snapwidget.com/in/?h=dGhlYXJub2xkc3Rvcnl8aW58MTI1fDN8M3x8bm98NXxub25lfG9uU3RhcnR8eWVzfHllcw==&ve=100516" title="Instagram Widget" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%;"></iframe>
