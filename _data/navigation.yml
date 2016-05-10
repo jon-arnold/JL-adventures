@@ -1,16 +1,13 @@
 # main links links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Our Story"
+    url: /about/our-story/
 
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/
+  - title: "Wedding Location"
+    url: /wedding/wedding-location/
 
-  - title: "Sample Posts"
-    url: https://mmistakes.github.io/minimal-mistakes/year-archive/
+  - title: "Staying in Savannah"
+    url: /wedding/staying-in-savannah/
 
-  - title: "Sample Pages"
-    url: https://mmistakes.github.io/minimal-mistakes/page-archive/
-
-  - title: "Sample Collections"
-    url: https://mmistakes.github.io/minimal-mistakes/collection-archive/
+  - title: "RSVP"
+    url: /rsvp
