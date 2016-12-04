@@ -4,7 +4,7 @@ title:  "Our Story"
 date:   2016-05-06 15:14:10
 categories: about
 header:
-  image: wormsloe.jpg
+  image: orleans-park.jpg
 ---
 
 Coming soon.
