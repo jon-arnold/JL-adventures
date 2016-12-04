@@ -4,7 +4,7 @@ title:  "Things to Do in Savannah"
 date:   2016-12-04 10:14:10
 categories: about
 header:
-  image: spanish-moss.jpg
+  image: harper-house.jpg
 ---
 
 We fell in love with Savannah from our very first visit. The architecture, the food, the history and the people all provide an amazing backdrop for our wedding and reception.
