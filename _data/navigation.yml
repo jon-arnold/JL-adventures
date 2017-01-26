@@ -1,13 +1,14 @@
 # main links links
 main:
-  - title: "Our Story"
-    url: /about/our-story/
 
   - title: "Wedding Location"
     url: /wedding/wedding-location/
 
-  - title: "Registry"
-    url: /about/registry/
+  - title: "Transportation"
+    url: /wedding/transportation/
 
   - title: "Staying in Savannah"
     url: /wedding/staying-in-savannah/
+
+  - title: "Registry"
+    url: /about/registry/
