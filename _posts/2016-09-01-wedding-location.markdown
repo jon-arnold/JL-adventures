@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Wedding Location"
-date:   2016-05-06 15:14:10
+date:   2016-09-01 15:14:10
 categories: wedding
 header:
   image: wormsloe.jpg
