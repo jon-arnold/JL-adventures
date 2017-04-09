@@ -7,6 +7,8 @@ header:
   image: garibaldis.jpg
 ---
 
+We are providing a bus as our primary method of transportation for the day. Here are details about the bus and other methods should you need them!
+
 ## Coach Transportation
 
 Our ceremony will take place at Wormsloe Historic Site, which has limited parking. The site is roughly 20 minutes outside of historic downtown Savannah. To make this easy for everyone, we have a charter bus that will be waiting for you in front of Garibaldi's Cafe on Congress Street.
